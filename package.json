@@ -1,0 +1,38 @@
+{
+  "name": "gulp-compile-template-requirejs",
+  "version": "0.0.1",
+  "description": "Gulp task to compile underscore templates and requirejs",
+  "main": "index.js",
+  "author": {
+    "name": "Tomas",
+    "email": "tomasgarzonhervas@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "lodash",
+    "template",
+    "precompile",
+    "compile",
+    "html",
+    "javascript",
+    "requirejs"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "~3.0.0",
+    "lodash.template": "~2.4.1",
+    "through2": "~0.5.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
