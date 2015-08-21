@@ -1,6 +1,6 @@
 # [gulp](https://github.com/wearefractal/gulp)-compile-template-requirejs
 
-> Compile [Underscore templates](http://underscorejs.org/#template) too).
+> Compile [Underscore templates](http://underscorejs.org/#template).
 
 ## Synopsis
 
